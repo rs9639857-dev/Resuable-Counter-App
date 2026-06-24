@@ -23,15 +23,20 @@ This project is a simple and reusable Counter Application built using **React** 
 ## Project Structure
 
 ```text
-src/
-├── components/
-│   └── Counter.jsx
-├── hooks/
-│   └── useCounter.js
-├── App.jsx
-├── App.css
-├── main.jsx
-└── index.css
+counter-app/
+├── src/
+│   ├── components/
+│   │   └── Counter.jsx
+│   ├── hooks/
+│   │   └── useCounter.js
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+├── public/
+├── README.md
+├── .gitignore
+├── package.json
 ```
 
 ## Custom Hook
